@@ -1,0 +1,13 @@
+word,lex,type
+a,DET,S 
+the,DET,S 
+man,N,S
+men,N,P
+woman,N,S
+women,N,P
+bite,V,S
+bites,V,P
+like,V,S
+likes,V,P
+green,ADJ,S
+dog,N,P
